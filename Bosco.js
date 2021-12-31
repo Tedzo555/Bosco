@@ -1,6 +1,6 @@
 /*
 Don't change cchangeredits🥲🚶
-Sourcecode https://github.com/Tedzo555/Bosco
+Sourcecode https://github.com/pepesir/Bosco
 
 Want to recode? yes, it's up to you as long as you don't change the watermark
 Don't sell the SC 😐👌
