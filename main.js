@@ -1,6 +1,6 @@
 /* 
 Don't change credits🥲🚶
-Sourcecode https://github.com/pepesir/Bosco
+Sourcecode https://github.com/Tedzo555/Bosco
 Want to recode? yes, it's up to you as long as you don't change the watermark
 Don't sell the SC 😐👌
 */
@@ -49,7 +49,7 @@ nocache('../message/help.js', module => console.log(color('[WATCH]', 'cyan'), co
          
     const starts = async (bosco = new WAConnection()) => {
 	bosco.logger.level = 'warn'
-	console.log(color(figlet.textSync('BOSCO BY PEPE', {
+	console.log(color(figlet.textSync('BOSCO BY TEDZO', {
 		font: 'Standard',
 		horizontalLayout: 'default',
 		vertivalLayout: 'default',
@@ -58,7 +58,7 @@ nocache('../message/help.js', module => console.log(color('[WATCH]', 'cyan'), co
 	}), 'yellow'))
 	console.log(color('[DENIS]', 'cyan'), color('WELCOME', 'white'))
 	console.log(color('[SER]', 'cyan'), color('BOT RUNNING', 'yellow'))
-	bosco.browserDescription = ["SUBSCRIBE YT - [PEPE - SIR]", "firefox", "3.0.0"];
+	bosco.browserDescription = ["JOIN YT - [TEDZO - SIR]", "firefox", "3.0.0"];
 
 	// Menunggu QR
 	bosco.on('qr', () => {
